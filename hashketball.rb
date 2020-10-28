@@ -15,6 +15,6 @@ def game_hash
                           desagna_diop, 
                           ben_gordon, 
                           kemba_walker]
-            }
+             }
   } 
 end
